@@ -3,7 +3,7 @@
 ## Numpy, loops y functions
 
 #### Introducción a Python para Científicxs 2020 by Santiago Soler (In Spanish) 
-github.com/santisoler/python-unsj-2020 (8 hours, 4 lessons) 
+https://santisoler.github.io/teaching/python-unsj.html (8 hours, 4 lessons) 
 
 #### Intro to Python by Kaggle courses 
 https://www.kaggle.com/learn/python (7 hours, 7 lessons) 
