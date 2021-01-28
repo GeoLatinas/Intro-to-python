@@ -2,7 +2,7 @@
 
 ## Numpy, loops y functions
 
-#### Introducción a Python para Científicxs 2020 by Santiago Soler (In Spanish) 
+#### Introducción a Python para Científicxs 2020 by Santiago Soler (Spanish) 
 https://santisoler.github.io/teaching/python-unsj.html (8 hours, 4 lessons) 
 
 #### Intro to Python by Kaggle courses 
@@ -16,7 +16,7 @@ https://github.com/wesm/pydata-book/blob/2nd-edition/appa.ipynb
 #### Intro to Pandas by Kaggle courses  
 https://www.kaggle.com/learn/pandas (4 hours, 6 lessons)
 
-#### Advanced Pandas. Chapter from Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython
+#### Advanced Pandas. Chapter 12 from Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython
 https://github.com/wesm/pydata-book/blob/2nd-edition/appa.ipynb
 
 ## Data visualization
