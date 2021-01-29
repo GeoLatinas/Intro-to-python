@@ -1,5 +1,13 @@
 # Introduction to Python
 
+|             | Info
+|-------------|-------------------------------------------------
+| WHEN        | TBD
+| WHERE       | GeoLatinas Zoom
+| Chat        | [Slack] #coding-group in GeoLatinas Slack
+| Requisitos  | Ser miembro de GeoLatinas -> 
+
+
 ## Numpy, loops y functions
 
 #### Introducción a Python para Científicxs 2020 by Santiago Soler (Spanish) 
