@@ -4,8 +4,8 @@
 |-------------|-------------------------------------------------
 | WHEN        | TBD
 | WHERE       | GeoLatinas Zoom
-| Chat        | [Slack] #coding-group in GeoLatinas Slack
-| Requisitos  | Ser miembro de GeoLatinas -> 
+| CHAT       | #coding-group in GeoLatinas Slack
+| REQUIREMENTS | Be a GeoLatinas member -> 
 
 
 ## Numpy, loops y functions
