@@ -2,7 +2,7 @@
 
 |             | Info
 |-------------|-------------------------------------------------
-| WHEN        | TBD
+| WHEN        | Saturday at 11:00 am ET 
 | WHERE       | GeoLatinas Zoom
 | CHAT       | #coding_group channel in GeoLatinas Slack
 | REQUIREMENTS | Be a GeoLatinas member!  
