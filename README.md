@@ -10,21 +10,21 @@
 
 ## Modulo 1 - Numpy, for loops y functions
 
-###Sabado, 13/02/2020 Santiago Soler y Andrea Balza :
+### Sabado, 13/02/2020 Santiago Soler y Andrea Balza :
  01 - variables
  02 - listas_y_for_loops
 
-###Sabado, 20/02/2020 Andrea Balza y Maria Cecilia Bravo:
+### Sabado, 20/02/2020 Andrea Balza y Maria Cecilia Bravo:
 03 - numpy
 04 - graficos
 07 - berkeley-temperature
 
-###Sabado, 27/02/2020 Santiago Soler y Maria Cecilia Bravo:
+### Sabado, 27/02/2020 Santiago Soler y Maria Cecilia Bravo:
 05 - funciones
 06 - decisiones
 08 - regresion_lineal
 
-###Recursos:
+### Recursos:
 #### Introducción a Python para Científicxs 2020 by Santiago Soler (Spanish)
 https://santisoler.github.io/teaching/python-unsj.html (8 hours, 4 lessons)
 
