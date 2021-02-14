@@ -15,9 +15,9 @@
 ### Sabado, 13/02/2020 Santiago Soler y Andrea Balza :
 - Variables: [01-variables.ipynb](https://github.com/GeoLatinas/Intro-to-python/blob/main/notebooks/01-variables.ipynb)
   ([Correr en binder](https://mybinder.org/v2/gh/GeoLatinas/Intro-to-python/blob/main/notebooks/01-variables.ipynb/HEAD))
-- 02 - listas_y_for_loops
 
 ### Sabado, 20/02/2020 Andrea Balza y Maria Cecilia Bravo:
+- 02 - listas_y_for_loops
 - 03 - numpy
 - 04 - graficos
 - 07 - berkeley-temperature
