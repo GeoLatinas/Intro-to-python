@@ -13,7 +13,8 @@
 ## Modulo 1 - Numpy, for loops y functions
 
 ### Sabado, 13/02/2020 Santiago Soler y Andrea Balza :
-- 01 - variables
+- Variables: [01-variables.ipynb](https://github.com/GeoLatinas/Intro-to-python/blob/main/notebooks/01-variables.ipynb)
+  ([Correr en binder](https://mybinder.org/v2/gh/GeoLatinas/Intro-to-python/blob/main/notebooks/01-variables.ipynb/HEAD))
 - 02 - listas_y_for_loops
 
 ### Sabado, 20/02/2020 Andrea Balza y Maria Cecilia Bravo:
