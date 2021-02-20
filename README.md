@@ -17,7 +17,8 @@
   ([Correr en binder](https://mybinder.org/v2/gh/GeoLatinas/Intro-to-python/blob/main/notebooks/01-variables.ipynb/HEAD))
 
 ### Sabado, 20/02/2020 Andrea Balza y Maria Cecilia Bravo:
-- 02 - listas_y_for_loops
+- Listas y for-loops: [02-listas_y_for_loops.ipynb](https://github.com/GeoLatinas/Intro-to-python/blob/main/notebooks/02-listas_y_for_loops.ipynb)
+- Numpy: [03-numpy.ipynb](https://github.com/GeoLatinas/Intro-to-python/blob/main/notebooks/03-numpy.ipynb)
 - 03 - numpy
 - 04 - graficos
 - 07 - berkeley-temperature
