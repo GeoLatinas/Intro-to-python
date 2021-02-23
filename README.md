@@ -1,39 +1,54 @@
 # Introduction to Python
 
-|             | Info
-|-------------|-------------------------------------------------
-| WHEN        | Saturday at 11:00 am ET 
-| WHERE       | GeoLatinas Zoom
-| CHAT       | #coding_group channel in GeoLatinas Slack
-| REQUIREMENTS | Be a GeoLatinas member!  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeoLatinas/Intro-to-python/HEAD)
+
+|               | Info
+|---------------|---------------------------------------------
+| WHEN          | TBD
+| WHERE         | GeoLatinas Zoom
+| CHAT          | `#coding-group` in GeoLatinas Slack
+| REQUIREMENTS  | [Be a GeoLatinas member!](https://geolatinas.weebly.com/get-involved.html)
 
 
-## Numpy, loops y functions
+## Modulo 1 - Numpy, for loops y functions
 
-#### Introducción a Python para Científicxs 2020 by Santiago Soler (Spanish) 
-https://santisoler.github.io/teaching/python-unsj.html (8 hours, 4 lessons) 
+### Sabado, 13/02/2020 Santiago Soler y Andrea Balza :
+- Variables: [01-variables.ipynb](https://github.com/GeoLatinas/Intro-to-python/blob/main/notebooks/01-variables.ipynb)
+  ([Correr en binder](https://mybinder.org/v2/gh/GeoLatinas/Intro-to-python/blob/main/notebooks/01-variables.ipynb/HEAD))
 
-#### Intro to Python by Kaggle courses 
-https://www.kaggle.com/learn/python (7 hours, 7 lessons) 
+### Sabado, 20/02/2020 Andrea Balza y Maria Cecilia Bravo:
+- Listas y for-loops: [02-listas_y_for_loops.ipynb](https://github.com/GeoLatinas/Intro-to-python/blob/main/notebooks/02-listas_y_for_loops.ipynb)
+- Numpy: [03-numpy.ipynb](https://github.com/GeoLatinas/Intro-to-python/blob/main/notebooks/03-numpy.ipynb)
+- 03 - numpy
+- 04 - graficos
+- 07 - berkeley-temperature
 
-#### Advanced Numpy. Appendix A from Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython
-https://github.com/wesm/pydata-book/blob/2nd-edition/appa.ipynb
+### Sabado, 27/02/2020 Santiago Soler y Maria Cecilia Bravo:
+- 05 - funciones
+- 06 - decisiones
+- 08 - regresion_lineal
 
-## Pandas 
+### Recursos:
 
-#### Intro to Pandas by Kaggle courses  
-https://www.kaggle.com/learn/pandas (4 hours, 6 lessons)
+- [Introducción a Python para Científicxs 2020](https://santisoler.github.io/teaching/python-unsj.html)
+  by Santiago Soler (Spanish) (8 hours, 4 lessons)
+- [Intro to Python by Kaggle](https://www.kaggle.com/learn/python) (7 hours, 7 lessons)
 
-#### Advanced Pandas. Chapter 12 from Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython
-https://github.com/wesm/pydata-book/blob/2nd-edition/appa.ipynb
+- [Advanced Numpy. Appendix A from Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://github.com/wesm/pydata-book/blob/2nd-edition/appa.ipynb)
 
-## Data visualization
+## Modulo 2 - Pandas
 
-#### Data visualization by Kaggle courses 
-https://www.kaggle.com/learn/data-visualization (4 hours, 8 lessons) 
+### Recursos:
 
-#### Data visualization with python by WWC 
-https://www.youtube.com/watch?v=wvDbLhconLU (1 hour)
+- [Intro to Pandas by Kaggle](https://www.kaggle.com/learn/pandas) (4 hours, 6 lessons)
+- [Advanced Pandas. Chapter 12 from Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://github.com/wesm/pydata-book/blob/2nd-edition/appa.ipynb)
+
+## Modulo 3 - Data visualization
+
+### Recursos:
+- [Data visualization by Kaggle](https://www.kaggle.com/learn/data-visualization)
+  (4 hours, 8 lessons)
+- [Data visualization with Python by WWC](https://www.youtube.com/watch?v=wvDbLhconLU) (1 hour)
 
 ## Licencia
 
