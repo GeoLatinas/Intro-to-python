@@ -12,21 +12,19 @@
 
 ## Modulo 1 - Numpy, for loops y functions
 
-### Sabado, 13/02/2020 Santiago Soler y Andrea Balza :
+### Sábado, 13/02/2020 Santiago Soler y Andrea Balza :
 - Variables: [01-variables.ipynb](https://github.com/GeoLatinas/Intro-to-python/blob/main/notebooks/01-variables.ipynb)
   ([Correr en binder](https://mybinder.org/v2/gh/GeoLatinas/Intro-to-python/HEAD?filepath=notebooks%2F01-variables.ipynb))
 
-### Sabado, 20/02/2020 Andrea Balza y Maria Cecilia Bravo:
+### Sábado, 20/02/2020 Andrea Balza y Maria Cecilia Bravo:
 - Listas y for-loops: [02-listas_y_for_loops.ipynb](https://github.com/GeoLatinas/Intro-to-python/blob/main/notebooks/02-listas_y_for_loops.ipynb)
-- Numpy: [03-numpy.ipynb](https://github.com/GeoLatinas/Intro-to-python/blob/main/notebooks/03-numpy.ipynb)
-- 03 - numpy
-- 04 - graficos
-- 07 - berkeley-temperature
 
-### Sabado, 27/02/2020 Santiago Soler y Maria Cecilia Bravo:
+### Sábado, 27/02/2020 Santiago Soler y Maria Cecilia Bravo:
+- Numpy: [03-numpy.ipynb](https://github.com/GeoLatinas/Intro-to-python/blob/main/notebooks/03-numpy.ipynb)
+- Gráficos: [04-graficos.ipynb](https://github.com/GeoLatinas/Intro-to-python/blob/main/notebooks/04-graficos.ipynb)
 - 05 - funciones
 - 06 - decisiones
-- 08 - regresion_lineal
+- 07 - regresion_lineal
 
 ### Recursos:
 
