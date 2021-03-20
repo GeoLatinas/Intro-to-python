@@ -1,0 +1,57 @@
+id,rubro,laboratorio,concepto,costo_unitario,cantidad,prioridad,compra_sencilla
+1,362 Refacciones y Accesorios,MANGLAR,Anemometro Adafruit,1000.00,5,1,NO
+2,365 Reactivos e Insumos,MANGLAR,Hidroxido de Calcio ACS 500 g,1013.84,1,1,SI
+3,486 Póliza de mantenimiento,MAR,Póliza de mantenimiento para espectrofotómetro UV-Vis LAMBDA25 marca Perkin Elemer. I,104400.00,1,3,NO
+4,365 Reactivos e Insumos,MANGLAR,Permanganato de Potasio ACS 500g,1067.20,1,1,SI
+5,365 Reactivos e Insumos,MANGLAR,Silica Gel CON Indicador 1Kg,1091.00,2,1,SI
+6,362 Refacciones y Accesorios,PETRÓLEO ,Batería de repuesto para cámara GoPro,1100.00,2,3,NO
+7,362 Refacciones y Accesorios,MANGLAR,SHT10 sensor de temperatura adafruit,1100.00,5,3,NO
+8,401 Equipo de procesamiento de datos y periféricos,PETRÓLEO ,Cámara de acción GoPro Hero Black,11000.00,1,3,NO
+9,362 Refacciones y Accesorios,MANGLAR,Cable duplex,12.00,10,3,NO
+10,505 Mantenimiento de equipo,MAR,Mantenimiento equipos LEICA,120000.00,1,3,NO
+11,362 Refacciones y Accesorios,MANGLAR,Refacciones para sondas y sensores Atlas Scientific,125621.00,1,1,SI
+12,362 Refacciones y Accesorios,MANGLAR,Cable UTP,13.00,10,3,NO
+13,365 Reactivos e Insumos,MANGLAR,Spray antifouling (Electrodos EXO3),1492.92,1,1,SI
+14,362 Refacciones y Accesorios,PETRÓLEO ,Montaje MAPIR dos cámaras para 3DR Solo,1500.00,1,2,NO
+15,362 Refacciones y Accesorios,PETRÓLEO ,Krytox lubricante YSI/EXO (599352),1500.00,1,1,SI
+16,505 Mantenimiento de equipo,MAR,Mantenimiento DRONES,15000.00,1,2,NO
+17,505 Mantenimiento de equipo,MAR,Mantenimiento equipo buceo,15000.00,1,3,NO
+18,401 Equipo de procesamiento de datos y periféricos,PETRÓLEO ,Kit cámara MAPIR Survey3W RGB,15200.00,1,2,NO
+19,556 Software y sistemas de información,MANGLAR,AQTSOLV,16477.50,1,3,SI
+20,362 Refacciones y Accesorios,PETRÓLEO ,Kit de juntas tóricas de repuesto EXO2 (YSI 599681),174000.00,1,1,SI
+21,505 Mantenimiento de equipo,MAR,Mantenimiento Torre 50m semestral,18000.00,1,1,NO
+22,362 Refacciones y Accesorios,MANGLAR,Sensor para ORP (EXO3),18209.18,1,2,SI
+23,362 Refacciones y Accesorios,MANGLAR,Sensor para nitratos (EXO3),18629.68,1,2,SI
+24,505 Mantenimiento de equipo,MAR,Mantenimiento preventivo a ultracongelador marca Revco Elite Plus Thermo Scientific Modelo ULT25866-A42 con servicio de pintura,19430.00,1,3,NO
+25,505 Mantenimiento de equipo,MAR,Mantenimiento Datalogger,20000.00,1,1,NO
+26,362 Refacciones y Accesorios,MAR,Refacciones EXO,20000.00,1,3,NO
+27,361 Póliza de seguro del equipo,PETRÓLEO ,Póliza de seguro para dron,205000.00,3,1,NO
+28,362 Refacciones y Accesorios,MANGLAR,Modulo Lector de Memorias Micro SD,21.00,5,3,NO
+29,401 Equipo de procesamiento de datos y periféricos,MANGLAR,MAPIR Survey2 Single Camera Clip,219.70,2,3,SI
+30,362 Refacciones y Accesorios,PETRÓLEO ,Kit de herramienta sensor de reemplazo y activación magnética YSI/exo (599469),2400.00,1,1,SI
+31,362 Refacciones y Accesorios,MANGLAR,LM2596 Regulador Step Down,27.00,5,1,NO
+32,362 Refacciones y Accesorios,MANGLAR,Carcasa antifouling de cobre para EXO3,28725.98,1,1,SI
+33,362 Refacciones y Accesorios,MANGLAR,Controlador De Carga Solar,299.00,5,1,NO
+34,362 Refacciones y Accesorios,MANGLAR,Wiper central para EXO3 (para limpiar),31907.47,1,3,SI
+35,362 Refacciones y Accesorios,MANGLAR,"Cable multiconductor de 4 vías, 22 AWG",33.00,10,3,NO
+36,362 Refacciones y Accesorios,MANGLAR,"Splitter cable para Argonaut-XR (Sontek, River Sourveyor)",36366.00,1,1,SI
+37,362 Refacciones y Accesorios,MANGLAR,Cube Orange (Drone),3954.60,1,3,SI
+38,505 Mantenimiento de equipo,MAR,Mantenimiento del Cluster,45000.00,1,3,NO
+39,362 Refacciones y Accesorios,MANGLAR,Sensor para turbiedad (EXO3),48052.35,1,2,SI
+40,362 Refacciones y Accesorios,MAR,Sutron Datalogger,48716.36,1,1,SI
+41,362 Refacciones y Accesorios,PETRÓLEO ,Kit de ensamblaje de protección EXO2 (YSI 599667),506000.00,1,1,SI
+42,362 Refacciones y Accesorios,PETRÓLEO ,Recipiente de calibración/almacenamiento EXO2 (YSI 599316),5400.00,1,1,SI
+43,362 Refacciones y Accesorios,MANGLAR,Batería Trojan AGM 135 Ah,5600.00,2,3,SI
+44,401 Equipo de procesamiento de datos y periféricos,MANGLAR,MAPIR Camera Reflectance Calibration Ground Target,5712.20,1,3,SI
+45,401 Equipo de procesamiento de datos y periféricos,MANGLAR,"Thoughbook Latitude Rugged 14"" 5420 (DELL)",60420.08,1,1,SI
+46,362 Refacciones y Accesorios,MANGLAR,Juego de 4 helices de 3DR Drone ,637.20,1,3,SI
+47,505 Mantenimiento de equipo,MAR,Mantenimiento preventivo a medidor multiparamétrico marca LTI,6438.00,1,3,NO
+48,505 Mantenimiento de equipo,MANGLAR,"Reparación 7550 Smartflux LI-COR, Equipo para medicion de flujos turbulentos de vapor de agua y CO2",6591.00,1,1,SI
+49,505 Mantenimiento de equipo,MAR,Mantenimiento sensores de presión marca HoBo de Presión,6687.73,4,1,NO
+50,505 Mantenimiento de equipo,MAR,Mantenimiento sensores de conductividad marca HoBo de Conductividad,7267.73,8,1,NO
+51,362 Refacciones y Accesorios,MANGLAR,Pantalla handheld para (EXO3),75971.38,1,3,SI
+52,362 Refacciones y Accesorios,MANGLAR,Bateria 12Vcc 12Ah,795.00,5,1,NO
+53,362 Refacciones y Accesorios,MANGLAR,DS3231 Modulo RTC Real Time Clock,80.00,5,3,NO
+54,505 Mantenimiento de equipo,MAR,Mantenimiento Torre RUOA semestral,9000.00,1,1,NO
+55,362 Refacciones y Accesorios,MANGLAR,NodeMCU ESP8266,93.00,5,3,NO
+56,362 Refacciones y Accesorios,MANGLAR,Sensor de Presion Atmosferica BME280,94.00,5,3,NO
